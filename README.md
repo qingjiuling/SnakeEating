@@ -1,12 +1,10 @@
-English | 简体中文
+# 介绍
 
-# Introduction
+一个简单的由JAVA实现的贪吃蛇程序
 
-A simple snake eating game implemented by JAVA.
+实现了以下功能
 
-The following functions are realized.
-
-- Start the game, end the game, save the game, restore the game
-- In the game, the length of greedy snakes increases from 3 to larger, and food appears randomly in the grid (except for snakes)
-- Conditions for victory: the snake's body occupies all the squares
-- Failure conditions: snake hit the grid wall, or hit their own body
+- 开始游戏、结束游戏、保存游戏、恢复游戏
+- 游戏中，贪吃蛇的长度从3不断变大，食物在网格中随机出现（除了蛇的身上）
+- 胜利条件：蛇的身体占满所有格子
+- 失败条件：贪吃蛇碰到网格四壁，或者碰到自己的身体
